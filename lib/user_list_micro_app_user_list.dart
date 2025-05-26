@@ -1,5 +1,1 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:user_list_micro_app_user_list/app/user_list_micro_app_user_list_resolver.dart';
