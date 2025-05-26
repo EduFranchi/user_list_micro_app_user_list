@@ -17,6 +17,11 @@ dependencies:
       url: https://github.com/EduFranchi/user_list_micro_core
       ref: main
 
+  user_list_commons_dependencies:
+    git:
+      url: https://github.com/EduFranchi/user_list_commons_dependencies
+      ref: main
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
